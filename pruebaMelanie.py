@@ -1,1 +1,2 @@
 #alo
+#funcionTraductos\r
